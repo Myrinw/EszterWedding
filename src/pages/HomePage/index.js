@@ -6,6 +6,8 @@ export default function HomePage() {
     <div>
       <LanguageChange />
       <HomePageImage />
+
+      <h2>10 more days until the wedding!</h2>
     </div>
   );
 }
